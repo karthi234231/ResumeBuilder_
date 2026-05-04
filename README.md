@@ -9,8 +9,13 @@
 
 ---
 
-<!-- Live site preview (auto-generated screenshot) -->
-[![ResumeForge Preview](https://image.thum.io/get/width/1200/crop/675/https://resumeforge-kj.netlify.app/)](https://resumeforge-kj.netlify.app)
+<a href="https://resumeforge-kj.netlify.app" target="_blank">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fresumeforge-kj.netlify.app&screenshot=true&meta=false&embed=screenshot.url" alt="ResumeForge Live Preview" width="100%" />
+</a>
+
+<p align="center">
+  🔗 Live App &nbsp;→&nbsp; <a href="https://resumeforge-kj.netlify.app">https://resumeforge-kj.netlify.app</a>
+</p>
 
 ---
 
